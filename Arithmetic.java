@@ -6,7 +6,8 @@ public class Arithmetic {
 	private int b;
 	
 	public Arithmetic() {
-		
+		this.a = 1;
+		this.b = 1;	
 	}
 
 	public Arithmetic(int x, int y) {
