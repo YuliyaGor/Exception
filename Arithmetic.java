@@ -5,11 +5,6 @@ public class Arithmetic {
 	private int a;
 	private int b;
 	
-	public Arithmetic() {
-		this.a = 1;
-		this.b = 1;	
-	}
-
 	public Arithmetic(int x, int y) {
 		this.a = x;
 		this.b = y;
